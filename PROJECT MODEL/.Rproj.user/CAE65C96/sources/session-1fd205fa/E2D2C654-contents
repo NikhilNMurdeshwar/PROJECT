@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NikhilsWebsite"
+  navbar:
+    left:
+    - FINAL PROJECT.qmd
+    
+
+format:
+  html:
+    theme: sandstone
